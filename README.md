@@ -1,1 +1,2 @@
-# Placement-Predictor
+# Placement-Predictor<br>
+<p>"Enhanced Placement Predictor by improving the UI with a more creative design and ensuring responsiveness across devices. Added features like personalized placement advice based on user inputs, integrated radar charts for profile comparison, and historical data visualization. Backend setup with Node.js and MongoDB allows storing user data and past predictions for future analysis. Also, added additional resources like resume builders and interview tips to guide users in their placement preparation."</p>
